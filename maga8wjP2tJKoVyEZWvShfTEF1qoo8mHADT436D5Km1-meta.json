@@ -1,0 +1,18 @@
+{
+    "name": "MAGA AGAIN",
+    "symbol": "MAGAA",
+    "image": "https://gonmemedev.github.io/publicData/MAGAA_400x400.jpg",
+    "description": "Make America Great Again, AGAIN! Trump 2024.",
+    "extensions": {
+        "website": "",
+        "twitter": "",
+        "telegram": ""
+    },
+    "tags": [
+        "Meme"
+    ],
+    "creator": {
+        "name": "GONGON Dev",
+        "site": "https://dev.gongoncoin.com"
+    }
+}
